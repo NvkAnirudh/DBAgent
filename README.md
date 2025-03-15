@@ -16,18 +16,22 @@ Tracing and Monitoring: Built-in support for AgentOps tracing to monitor agent p
 
 ## Requirements
 
-Python 3.8+
-OpenAI API key
+Python 3.8+ <br>
+OpenAI API key <br>
 AgentOps API key (for tracing)
 
 ## Installation
 
 Clone this repository:
-```clone https://github.com/yourusername/advanced-data-analysis-agent.git```
+```
+clone https://github.com/yourusername/advanced-data-analysis-agent.git
+```
 cd advanced-data-analysis-agent
 
 Install the required dependencies:
-```install -r requirements.txt```
+```
+install -r requirements.txt
+```
 
 Create a .env file with your API keys:
 ```
